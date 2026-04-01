@@ -4,7 +4,7 @@
       <!-- 侧边栏 -->
       <el-aside width="200px">
         <div class="logo">
-          <h2>烧烤店管理</h2>
+          <h2>阿九的烧鸟小铺</h2>
         </div>
         <el-menu
           :default-active="activeMenu"
